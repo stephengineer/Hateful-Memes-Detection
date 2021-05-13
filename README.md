@@ -1,5 +1,11 @@
 # Hateful Memes Detection
 
+Take an image, add some text: you've got a meme. Internet memes are often harmless and sometimes hilarious. However, by using certain types of images, text, or combinations of each of these data modalities, the seemingly non-hateful meme becomes a multimodal type of hate speech, a hateful meme.
+
+[Starter code](https://github.com/facebookresearch/mmf/tree/master/projects/hateful_memes) from Facebook AI's MMF is also available on GitHub to help you get started.
+
+
+## Facebook AI
 The goal is to create an algorithm that identifies multimodal hate speech in internet memes.
 
 [Hateful Memes: Phase 1](https://www.drivendata.org/competitions/64/hateful-memes/page/205/)
@@ -11,7 +17,7 @@ Sign-up [DRIVEN_DATA](https://www.drivendata.org/) to download [External data](h
 
 
 ## Models
-[Baseline](https://github.com/facebookresearch/mmf/tree/master/projects/hateful_memes#reproducing-baselines)
+[Pre-trained models](https://github.com/facebookresearch/mmf/tree/master/projects/hateful_memes#reproducing-baselines)
 
 
 ## Colab with VM
