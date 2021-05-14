@@ -9,6 +9,7 @@ Take an image, add some text: you've got a meme. Internet memes are often harmle
 The goal is to create an algorithm that identifies multimodal hate speech in internet memes.
 
 [Hateful Memes: Phase 1](https://www.drivendata.org/competitions/64/hateful-memes/page/205/)
+
 [Hateful Memes: Phase 2](https://www.drivendata.org/competitions/70/hateful-memes-phase-2/)
 
 
